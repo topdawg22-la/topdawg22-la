@@ -1,1 +1,20 @@
-My name is Gunner Carr and I would really like to make a app for poultry broiler farms, Top Dawg Pro I'm a hands-on engineer, tradesman, and problem solver with a wide range of experience in mechanical, electrical, and agricultural systems. I thrive on practical challenges, from automotive diagnostics to poultry farm operations, and cattle hand!
+# Hi, I'm Gunner B. Carr 🐾 🛠️
+
+### Agricultural Engineering Student & Founder of Top Dawg Pro
+
+I am bridging the gap between hands-on farm service and agricultural engineering. My mission is to increase farm profitability through precision maintenance, automated logging, and mechanical optimization.
+
+---
+
+### 🚀 Top Dawg Pro Projects
+* **[top-dawg-pro-app]:** A comprehensive suite for tracking maintenance logs and tool inventory.
+* **Equipment Analytics:** Using data to track repair costs and equipment lifespan.
+* **Tool-Count Automation:** Digital tracking to ensure no tool is left behind in the field.
+
+### 🎓 Academic Focus
+* **Major:** Agricultural Engineering
+* **Interests:** Fluid power systems, structural design, and automated feeding systems.
+
+### 📫 Connect with me
+* **Email:** topdawgk.a@gmail.com
+* **GitHub:** @topdawg22-la-2
