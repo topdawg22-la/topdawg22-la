@@ -18,3 +18,5 @@ I am bridging the gap between hands-on farm service and agricultural engineering
 ### 📫 Connect with me
 * **Email:** topdawgk.a@gmail.com
 * **GitHub:** @topdawg22-la-2
+
+“I develop software and systems that help technicians, tradesmen, and maintenance engineers work smarter, track their projects, and solve problems efficiently. My platform combines real-world experience with modern engineering and software tools.”
