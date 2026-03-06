@@ -1,6 +1,6 @@
 # Hi, I'm Gunner B. Carr 🐾 🛠️
 
-### Agricultural Engineering Student & Founder of Top Dawg Pro
+### Mechanical Engineering Student & Founder of Top Dawg Pro
 
 I am bridging the gap between hands-on farm service and agricultural engineering. My mission is to increase farm profitability through precision maintenance, automated logging, and mechanical optimization.
 
@@ -12,7 +12,7 @@ I am bridging the gap between hands-on farm service and agricultural engineering
 * **Tool-Count Automation:** Digital tracking to ensure no tool is left behind in the field.
 
 ### 🎓 Academic Focus
-* **Major:** Agricultural Engineering
+* **Major:** Mechanical Engineering
 * **Interests:** Fluid power systems, structural design, and automated feeding systems.
 
 ### 📫 Connect with me
