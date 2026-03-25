@@ -1,22 +1,15 @@
-# Hi, I'm Gunner B. Carr 🐾 🛠️
+# 👋 I'm Gunner Blake Carr
+### Systems Engineer | Software Developer | Industrial Specialist
+![CTU 2026](https://img.shields.io/badge/B.S._Science-Systems_Engineering-CC0000?style=for-the-badge)
+![Software Dev](https://img.shields.io/badge/Software_Developer-Enterprise_Solutions-28a745?style=for-the-badge)
 
-### Mechanical Engineering Student & Founder of Top Dawg Pro
-
-I am bridging the gap between hands-on farm service and agricultural engineering. My mission is to increase farm profitability through precision maintenance, automated logging, and mechanical optimization.
+- 🎓 **Education:** Colorado Technical University, Class of 2026.
+- 🛠 **Field Expertise:** Welder, Fabricator, Systems Architect for Heavy Industrial & Automotive.
+- 🚀 **Current Project:** [Nexus-Auto-OS](link-to-your-repo) - The first bi-directional diagnostic framework for the "Best of Both Worlds."
+- 👨‍🏫 **Educator:** Teaching the next generation how to bridge the gap between mechanical trades and software science.
 
 ---
-
-### 🚀 Top Dawg Pro Projects
-* **[top-dawg-pro-app]:** A comprehensive suite for tracking maintenance logs and tool inventory.
-* **Equipment Analytics:** Using data to track repair costs and equipment lifespan.
-* **Tool-Count Automation:** Digital tracking to ensure no tool is left behind in the field.
-
-### 🎓 Academic Focus
-* **Major:** Mechanical Engineering
-* **Interests:** Fluid power systems, structural design, and automated feeding systems.
-
-### 📫 Connect with me
-* **Email:** topdawgk.a@gmail.com
-* **GitHub:** @topdawg22-la-2
-
-“I develop software and systems that help technicians, tradesmen, and maintenance engineers work smarter, track their projects, and solve problems efficiently. My platform combines real-world experience with modern engineering and software tools.”
+### 📊 My Professional Badges
+![Expert](https://img.shields.io/badge/Expert-Bi--Directional_Diagnostics-orange?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Metasploit_&_Wireshark-red?style=flat-square)
+![Innovation](https://img.shields.io/badge/Innovation-Apple_&_Tesla_Interoperability-blue?style=flat-square)
